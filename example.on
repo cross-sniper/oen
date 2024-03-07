@@ -1,0 +1,15 @@
+healingEffect = {
+	name: healing
+	duration: 20
+	strength: 2
+}
+
+potion = {
+	wheight: 0.5
+	name: healing
+	include: healingEffect
+}
+
+
+export potion
+export healingEffect
